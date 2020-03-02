@@ -6,10 +6,10 @@ margin-bottom: 0px;
 max-width: 60%;
 }
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 1080px){
 video{
 max-width: 90%;
-margin : auto;
+margin : 0px;
 border-radius: 0px;
 }
 }
