@@ -9,7 +9,6 @@ max-width: 70%;
 @media screen and (max-width: 1080px){
 video{
 max-width: 90%;
-height: auto;
 margin : 0px;
 border-radius: 0px;
 }
